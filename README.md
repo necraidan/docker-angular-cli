@@ -1,6 +1,6 @@
 # Dockerfile with Angular CLI
 
-Node 8.12 + Angular CLI 6.2.0+
+Node 10.13 LTS + Angular CLI 7.0.0+
 
 Find [the image here](https://hub.docker.com/r/johnpapa/angular-cli/)
 
